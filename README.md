@@ -62,7 +62,10 @@ Pioneering a professional journey in software development, I excel in crafting i
 - **İstanbul University - Computer Programming** (2022 - Continues) 🎓 Associate's Degree
 
 ## 📞 Contact me !!!
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905337970350?text=Merhaba%20size%20GitHub%20profili%20üzerinden%20ulaşmaktayım%20👋){:target="_blank"}
+ <a href="https://wa.me/905337970350?text=Merhaba%20size%20GitHub%20profili%20üzerinden%20ulaşmaktayım%20👋" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
 
   [![E-posta](https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatiherensaklioglu@gmail.com){:target="_blank"}
    <br>
