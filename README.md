@@ -38,7 +38,8 @@ Pioneering a professional journey in software development, I excel in crafting i
   ![Software Developer](https://img.shields.io/badge/Software%20Developer-%231F3B5E?style=plastic)
   - **BulutCrm** Cloud-based Crm with online virtual switchboard integrated
   Teknolojiler: AspNet Core 7.0, MsSql, Bootstrap
-  
+  - **MultilingualCMS** Personal Content Management System with Multilingual Support
+Teknolojiler: AspNet Core 8.0, MsSql, Bootstrap
 
 ## 💻 Skills
 - ![.NET Developer](https://img.shields.io/badge/.NET%20Developer-%235C2D91?style=plastic)
