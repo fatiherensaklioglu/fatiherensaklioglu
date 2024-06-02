@@ -63,7 +63,7 @@ Teknolojiler: AspNet Core 8.0, MsSql, Bootstrap
 - **İstanbul University - Computer Programming** (2022 - Continues) 🎓 Associate's Degree
 
 ## 📞 Contact me !!!
- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905337970350?text=Merhaba%20size%20GitHub%20profili%20üzerinden%20ulaşmaktayım%20👋) 
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905424110520?text=Merhaba%20size%20GitHub%20profili%20üzerinden%20ulaşmaktayım%20👋) 
   [![E-posta](https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatiherensaklioglu@gmail.com)
    <br>
  📍 Adres: Kayseri/Türkiye
