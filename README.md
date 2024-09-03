@@ -1,5 +1,34 @@
-# 💫 About Me:
-👋 Hi, I'm Fatih Eren ŞAKLIOĞLU!<br><br>I'm a dedicated software developer with a strong expertise in C# and ASP.NET, specializing in building robust and scalable web applications. My passion lies in creating powerful solutions that streamline business processes, enhance user experiences, and support complex functionalities. Whether it's developing comprehensive systems for CRM, content management, or e-commerce, I focus on delivering high-quality software that meets the diverse needs of users. I have a proven track record of developing both single-tenant and multi-tenant applications, enabling seamless content integration, multilingual support, and efficient API-driven interactions across platforms.<br><br>🔧 Technologies I Work With<br><br>Backend: C#, ASP.NET, Dapper, MSSQL, CQRS, MediatR<br>Frontend: HTML, CSS, JavaScript, jQuery<br>Database: MSSQL, MongoDB<br>Other: Node.js<br>🌍 Projects I've Worked On<br><br>Single-Tenant CMS: Developed a content management system specifically designed for single clients to manage their website content with ease, including multilingual capabilities.<br>Multi-Tenant CMS: Created a scalable CMS that supports multiple clients (tenants), allowing each to create and manage their own multilingual web content, using APIs to display this content across their websites.<br>Multi-Tenant E-Commerce System: Currently developing a multi-tenant e-commerce platform that enables multiple vendors to manage their online stores within a unified system, with advanced features for scalability and customization.<br>Country/City API: Built an API using MongoDB and Node.js for managing country, city, and district data, complete with an admin panel for easy CRUD operations.<br>Web Development: Designed and coded numerous websites with rich frontend experiences using HTML, CSS, JavaScript, and jQuery.<br>💼 Collaboration<br>I'm open to collaborating on projects that involve web application development, especially those that leverage the power of APIs, CMS, and e-commerce platforms. Whether it's building from the ground up or enhancing existing systems, I enjoy turning complex ideas into practical, user-friendly solutions.<br><br>💬 Ask Me About<br><br>C# and ASP.NET best practices<br>Building scalable CMS solutions (Single-Tenant & Multi-Tenant)<br>Multi-Tenant E-Commerce systems<br>API design and implementation<br>Efficient data management with Dapper and MSSQL<br>📫 How to Reach Me<br>Feel free to connect with me via fatiherensaklioglu@gmail.com or follow me on Instagram or Linkedin.
+[![](https://visitcount.itsvg.in/api?id=fatiherensaklioglu&icon=5&color=12)](https://visitcount.itsvg.in)
+# 💫 About Me: 
+👋 Hi, I'm Fatih Eren ŞAKLIOĞLU!<br><br>
+I'm a dedicated software developer with strong expertise in **C# and ASP.NET**, specializing in building robust and scalable web applications. My passion lies in creating powerful solutions that streamline business processes, enhance user experiences, and support complex functionalities. Whether it's developing comprehensive systems for CRM, content management, or e-commerce, I focus on delivering high-quality software that meets the diverse needs of users. I have a proven track record of developing both single-tenant and multi-tenant applications, enabling seamless content integration, multilingual support, and efficient API-driven interactions across platforms.
+
+### 🔧 Technologies I Work With
+- **Backend:** C#, ASP.NET, Dapper, MSSQL, CQRS, MediatR
+- **Frontend:** HTML, CSS, JavaScript, jQuery
+- **Database:** MSSQL, MongoDB
+- **Other:** Node.js
+
+### 🌍 Projects I've Worked On
+- **Single-Tenant CMS:** Developed a content management system specifically designed for single clients to manage their website content with ease, including multilingual capabilities.
+- **Multi-Tenant CMS:** Created a scalable CMS that supports multiple clients (tenants), allowing each to create and manage their own multilingual web content, using APIs to display this content across their websites.
+- **Multi-Tenant E-Commerce System:** Currently developing a multi-tenant e-commerce platform that enables multiple vendors to manage their online stores within a unified system, with advanced features for scalability and customization.
+- **Country/City API:** Built an API using MongoDB and Node.js for managing country, city, and district data, complete with an admin panel for easy CRUD operations.
+- **Web Development:** Designed and coded numerous websites with rich frontend experiences using HTML, CSS, JavaScript, and jQuery.
+
+### 💼 Collaboration
+I'm open to collaborating on projects that involve web application development, especially those that leverage the power of APIs, CMS, and e-commerce platforms. Whether it's building from the ground up or enhancing existing systems, I enjoy turning complex ideas into practical, user-friendly solutions.
+
+### 💬 Ask Me About
+- C# and ASP.NET best practices
+- Building scalable CMS solutions (Single-Tenant & Multi-Tenant)
+- Multi-Tenant E-Commerce systems
+- API design and implementation
+- Efficient data management with Dapper and MSSQL
+
+### 📫 How to Reach Me
+Feel free to connect with me via **fatiherensaklioglu@gmail.com** or follow me on **Instagram** or **LinkedIn**.
+
 
 
 ## 🌐 Socials:
@@ -21,7 +50,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fatiherensaklioglu&limit=5&theme=flag-india&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=fatiherensaklioglu&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
